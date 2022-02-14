@@ -18,6 +18,11 @@ const defaultData = [
     checked: false,
     index: 2,
   },
+  {
+    label: "Hooks",
+    checked: false,
+    index: 3,
+  },
 ];
 
 function App() {
